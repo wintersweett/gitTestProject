@@ -13,4 +13,6 @@ class Test {
     // I am from test1
     var name2 = "test1"
 
+    var name3 = "test3"
+
 }
