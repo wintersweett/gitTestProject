@@ -8,7 +8,7 @@ class Test {
     var name = "xxx"
 
     //the second step for test
-    var name1 = "really?"
+    var nameFrom3 = "really?"
 
     // I am from test1
     var name2 = "test1"
