@@ -11,5 +11,6 @@ class Test {
     var name1 = "really?"
 
     // I am from test1
-    
+    var name2 = "test1"
+
 }
