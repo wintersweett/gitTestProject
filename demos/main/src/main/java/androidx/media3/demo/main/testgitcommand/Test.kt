@@ -9,4 +9,6 @@ class Test {
 
     //the second step for test
     var name1 = "really?"
+
+    var name3 = "from test2"
 }
